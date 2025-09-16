@@ -1,6 +1,7 @@
 # AI-Powered Python Road Trip Planner 🗺️
 
-A smart command-line application built with Python that helps users plan detailed road trips. By integrating with the **Google Maps Directions API** and the **Google Gemini LLM**, this tool not only fetches routes but also acts as an AI travel concierge, providing intelligent, context-aware suggestions for your journey using a RAG pipeline.
+Built with Python, this smart command-line tool leverages the Google Maps Directions API for routing and the Google Gemini LLM for AI-powered enrichment. The application functions as a travel concierge by implementing a Retrieval-Augmented Generation (RAG) pipeline to deliver intelligent, context-aware suggestions beyond simple navigation.
+
 ---
 
 ## ✨ Features
@@ -83,4 +84,5 @@ Execute the main script from your terminal. The application will first build the
 
 ```bash
 python main.py
+
 
