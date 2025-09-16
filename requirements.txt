@@ -1,0 +1,9 @@
+# Python package requirements for the AI Road Trip Planner
+# For making HTTP requests to the Google Maps API
+requests
+
+# The official Google client library for the Gemini API
+google-generativeai
+
+# For managing environment variables (API keys)
+python-dotenv
