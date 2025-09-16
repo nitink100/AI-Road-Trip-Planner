@@ -45,8 +45,8 @@ Follow these instructions to set up and run the project locally.
 
 2.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/ai-python-trip-planner.git](https://github.com/your-username/ai-python-trip-planner.git)
-    cd ai-python-trip-planner
+    git clone https://github.com/nitink100/AI-Road-Trip-Planner.git
+    cd AI-Road-Trip-Planner
     ```
 
 3.  **Create and activate a virtual environment:**
@@ -84,5 +84,6 @@ Execute the main script from your terminal. The application will first build the
 
 ```bash
 python main.py
+
 
 
